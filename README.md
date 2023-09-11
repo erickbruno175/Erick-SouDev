@@ -1,16 +1,27 @@
-### Hi there 👋
+<div style="display: flex; padding: 5px"><br/>
+ <img align="center" alt="java" src="">
+</div>
 
-<!--
-**Erick-SouDev/Erick-SouDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Oi! tudo bem sou erick  bruno, sou apaixonado por tecnologia, adoro desafios 😄 
+![Erick  GitHub stats](https://github-readme-stats.vercel.app/api?username=Erick-SouDev&show_icons=true&theme=dracula)
+
+### Tecnologias Que Eu Uso Nos Meus Projetos
+
+<div style="display: flex; padding: 5px"><br/>
+ <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+
+  <img align="center"  alt="java" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+
+   <img align="center"  alt="java" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+
+   <img align="center"  alt="java" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+
+   <img align="center"  alt="java" src="	https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+
+   <img align="center"  alt="java" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+
+      
+</div>
+
