@@ -1,10 +1,8 @@
-<div style="display: flex; padding: 5px"><br/>
- <img align="center" alt="java" src="">
-</div>
+![thumb2-java-metal-logo-grunge-programming-language-signs-blue-metal-background-java](https://github.com/Erick-SouDev/Erick-SouDev/assets/139890795/7d28f9aa-c073-48be-9de9-a7d4ac3ff7cc)
 
 
 
-### Oi! tudo bem sou erick  bruno, sou apaixonado por tecnologia, adoro desafios 😄 
+### Óla tudo bem, sou erick bruno sou apaixonado por tecnologia  adoro desafios tomando um belo café 😄 
 ![Erick  GitHub stats](https://github-readme-stats.vercel.app/api?username=Erick-SouDev&show_icons=true&theme=dracula)
 
 ### Tecnologias Que Eu Uso Nos Meus Projetos
