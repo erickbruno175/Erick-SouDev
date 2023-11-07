@@ -7,6 +7,12 @@
 ### Óla tudo bem, sou erick bruno sou apaixonado por tecnologia  adoro desafios , amo programar ainda mais se for acompanhado de um  cafézinho  😄 
 ![Erick  GitHub stats](https://github-readme-stats.vercel.app/api?username=Erick-SouDev&show_icons=true&theme=dracula)
 
+###  Contato
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-bruno/)
+
+
+
+
 ### Tecnologias que eu utilizo  em  meus projetos.
 
 <div style="display: flex; padding: 5px"><br/>
