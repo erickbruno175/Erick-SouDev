@@ -22,7 +22,7 @@ Minha jornada no mundo da programação é marcada pela constante busca por apri
 
 ### Tecnologias que eu utilizo  em  meus projetos.
 
-<div style="display: flex; padding: 5px"><br/>
+<div style="display: flex; padding: 10px"><br/>
  <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img align="center"  alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
    <img align="center"  alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
