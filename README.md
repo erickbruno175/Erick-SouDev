@@ -7,7 +7,8 @@
 ### Óla tudo bem, sou erick bruno sou apaixonado por tecnologia  adoro desafios , amo programar ainda mais se for acompanhado de um  cafézinho  😄 
 ![Erick  GitHub stats](https://github-readme-stats.vercel.app/api?username=Erick-SouDev&show_icons=true&theme=dracula)
 
-### Sobre 
+
+### Sobre Mim 
 
 Sou um dedicado estudante de Análise e Desenvolvimento de Sistemas, apaixonado por desvendar os intricados desafios do mundo da programação. Minha especialidade está no universo do back-end
 Minha jornada no mundo da programação é marcada pela constante busca por aprimoramento e aprendizado, com o objetivo de enfrentar desafios cada vez mais complexos e entregar soluções de alta qualidade. Estou ansioso para continuar minha jornada e contribuir para o mundo da tecnologia com minha paixão e conhecimento .
