@@ -10,8 +10,11 @@
 
 ### Sobre Mim 
 
-Sou um dedicado estudante de Análise e Desenvolvimento de Sistemas, apaixonado por desvendar os intricados desafios do mundo da programação. Minha especialidade está no universo do back-end
-Minha jornada no mundo da programação é marcada pela constante busca por aprimoramento e aprendizado, com o objetivo de enfrentar desafios cada vez mais complexos e entregar soluções de alta qualidade. Estou ansioso para continuar minha jornada e contribuir para o mundo da tecnologia com minha paixão e conhecimento .
+ Sou um estudante de Análise e Desenvolvimento de Sistemas, com habilidades
+ como programador Java, conhecimento em frameworks como Spring Boot, JSF e
+ JSP, e experiência em bancos de dados relacionais, especialmente PostgreSQL. Já
+ desenvolvi alguns projetos pessoais utilizando essas tecnologias, demonstrando
+ minha paixão por aprender e criar soluções .
 
 ###  Contato
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-bruno/)
