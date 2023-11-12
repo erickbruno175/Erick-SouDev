@@ -16,6 +16,30 @@
  desenvolvi alguns projetos pessoais utilizando essas tecnologias, demonstrando
  minha paixão por aprender e criar soluções .
 
+### TimeLine
+
+**2020: Início da Graduação em Análise e Desenvolvimento de Sistemas**
+- Exploração entusiasmada do vasto mundo da programação.
+
+**2020: Primeiros Passos na Programação**
+- Aprendizado dos conceitos fundamentais e estruturas básicas.
+
+**2021: Especialização em Java e Exploração Profunda da Linguagem**
+- Identificação do interesse específico na linguagem Java.
+- Início da especialização em Java, abordando conceitos avançados.
+- Profundização nos recursos avançados de Java, incluindo programação concorrente e manipulação de exceções.
+
+**2022: Aprofundamento em Spring Boot, Arquitetura MVC e REST API**
+- Descoberta e interesse pela estrutura do Spring Boot.
+- Aprofundamento em Spring Boot, aplicando os princípios da arquitetura MVC.
+- Exploração intensiva de REST API, integrando conhecimentos na criação de aplicações web eficientes.
+- Imersão na arquitetura limpa e padrões de projetos, consolidando uma compreensão abrangente da construção de sistemas robustos.
+
+**2023: Criação de Projetos Pessoais e Acadêmicos**
+- Início da aplicação prática dos conhecimentos adquiridos, desenvolvendo projetos pessoais.
+- Participação em projetos acadêmicos, aplicando a experiência para resolver problemas do mundo real.
+- Conclusão da graduação e reflexão sobre a jornada, celebrando conquistas e preparando-se para os desafios futuros.
+
 ###  Contato
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-bruno/)
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5584987084306)
