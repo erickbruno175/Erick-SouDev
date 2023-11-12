@@ -74,5 +74,7 @@
 
   </div>
 
-## Meu Repositorio 
+###  Meu Repositorio 
 <a href="https://github.com/Erick-SouDev?tab=repositories">Meus Projetos 👈</a>
+### Meu Curriculum
+<a href="https://www.canva.com/design/DAFz_SCiNeY/oBrc-X5G0Igd8hguiwcvJg/edit">Meu CV👈</a>
