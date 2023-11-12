@@ -8,7 +8,7 @@
 ![Erick  GitHub stats](https://github-readme-stats.vercel.app/api?username=Erick-SouDev&show_icons=true&theme=transparent)
 
 
-### Sobre Mim 
+### Sobre Mim. 
 
  Sou um estudante de Análise e Desenvolvimento de Sistemas, com habilidades
  como programador Java, conhecimento em frameworks como Spring Boot, JSF e
