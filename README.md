@@ -77,4 +77,4 @@
 ###  Meu Repositorio 
 <a href="https://github.com/Erick-SouDev?tab=repositories">Meus Projetos 👈</a>
 ### Meu Curriculum
-<a href="https://www.canva.com/design/DAFz_SCiNeY/oBrc-X5G0Igd8hguiwcvJg/edit">Meu CV👈</a>
+<a title="curriculum de erick bruno " href="https://drive.google.com/file/d/1IA_pAu4hgpKKS_tTUvC-dp8wNHk-N1F1/view?usp=sharing">Meu CV👈</a>
