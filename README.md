@@ -67,7 +67,7 @@
    <img align="center"  alt="hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
   </div>
 
-  ### Educação 
+  ### Estudos & Certificados 
    <div style="display: flex; padding: 10px"><br/>
     <img align="center"  alt="udemy" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white">
     <img align="center"  alt="mdn" src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white">
