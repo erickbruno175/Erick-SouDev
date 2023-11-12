@@ -27,7 +27,7 @@
 **2021: Especialização em Java e Exploração Profunda da Linguagem**
 - Identificação do interesse específico na linguagem Java.
 - Início da especialização em Java, abordando conceitos avançados.
-- Profundização nos recursos avançados de Java, incluindo programação concorrente e manipulação de exceções.
+- Profundização nos recursos avançados de Java.
 
 **2022: Aprofundamento em Spring Boot, Arquitetura MVC e REST API**
 - Descoberta e interesse pela estrutura do Spring Boot.
