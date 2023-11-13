@@ -2,7 +2,7 @@
 
 
 
-<h1>Seja Bem Vindo  💪  </h1> ..
+<h1>Seja-m Bem Vindo  💪  </h1> ..
 
 ### Óla tudo bem, sou erick bruno sou apaixonado por tecnologia  adoro desafios , amo programar ainda mais se for acompanhado de um  cafézinho  😄 
 ![Erick  GitHub stats](https://github-readme-stats.vercel.app/api?username=Erick-SouDev&show_icons=true&theme=transparent)
