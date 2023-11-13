@@ -4,7 +4,7 @@
 
 <h1>sejam bem vindos 💪</h1> 
 
-### Óla tudo bem, sou erick bruno , programador back-end java 😄 
+### Óla tudo bem, sou erick bruno  programador back-end java 😄 
 <br/>
 
 
