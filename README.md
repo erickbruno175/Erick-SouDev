@@ -79,5 +79,7 @@
 ### Meu Curriculum
 
    <div style="display: flex; padding: 10px"><br/>
-      <a title="curriculum de erick bruno " href="https://drive.google.com/file/d/15e9Ku5OfptsxOXunm_-nmP0Wcd2Dl6oA/view?usp=sharing">Meu CV Personalisado 1👈</a>
+       <a title="curriculum de erick bruno "href="https://drive.google.com/file/d/15e9Ku5OfptsxOXunm_-nmP0Wcd2Dl6oA/view?usp=sharing">Meu CV Personalisado 👈</a>
     </div>
+
+    
