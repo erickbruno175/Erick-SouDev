@@ -2,9 +2,12 @@
 
 
 
-<h1>sejam bem vindos 💪  </h1> ..
+<h1>sejam bem vindos 💪</h1> 
 
-### Óla tudo bem, sou erick bruno , programador back-end java  sou apaixonado por tecnologia  adoro desafios , amo programar ainda mais se for acompanhado de um  cafézinho  😄 
+### Óla tudo bem, sou erick bruno , programador back-end java 😄 
+<br/>
+
+
 ![Erick  GitHub stats](https://github-readme-stats.vercel.app/api?username=Erick-SouDev&show_icons=true&theme=transparent)
 
 
@@ -45,6 +48,7 @@
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5584987084306)
 
 
+<br/>
 
 
 ### Tecnologias que eu utilizo  em  meus projetos.
@@ -58,6 +62,7 @@
    <img align="center"  alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img align="center"  alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
 </div>
+<br/>
 
  <div style="display: flex; padding: 10px"><br/>
   <img align="center"  alt="github" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
