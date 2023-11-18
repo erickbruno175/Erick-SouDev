@@ -6,7 +6,7 @@
 
 ### Óla tudo bem, sou erick bruno  programador back-end java 😄 
 <br/>
-<div style="display: flex; padding: 10px"><br/>
+<div style="display: flex; padding: 5px"><br/>
  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Erick-SouDev&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-SouDev&layout=compact&langs_count=16&theme=transparent"/>
 </div>
