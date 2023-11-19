@@ -1,14 +1,10 @@
 
 
-![Java-For-Web-Development](https://github.com/Erick-SouDev/alerta-eventos/assets/139890795/79bad535-3560-4fd0-96db-14ff2cd1f360)
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Óla+Meu+Nome+e+Erick+Bruno;II+sou+Natural+de+São+gonçalo+amarante,+RN;estudante+analises+de+sistemas+programador+java+UNP;bem+vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Óla+Meu+Nome+e+Erick+Bruno;Sou+Natural+de+São+gonçalo+amarante,+RN;estudante+analises+de+sistemas+programador+java+UNP;bem+vindo!+:%29)](https://git.io/typing-svg)
 
 
-
-<h1>sejam bem vindos 💪</h1> 
 
 ### Óla tudo bem, sou erick bruno  programador back-end java 😄 
 
