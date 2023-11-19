@@ -2,7 +2,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Óla,+Meu+Nome+é+Erick+Bruno;+Sou+Natural+de+SG+do+Amarante,+RN;+Estudante+de+Analises+de+Sistemas,+na+UNP+;+Programador+Back-End+java+;Bem+Vindo😄!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Óla,+Meu+Nome+é+Erick+Bruno;+Sou+Natural+de+SG+do+Amarante,+RN;+Estudante+em+Analises+de+Sistemas,+na+UNP+;+Programador+Back-End+java+;Minhas+Skils,+SpringBoot+JSP+JSF+JQUERY+Thymeleaf;+Atualmente+Aprendendo+Angular.js+TypeScript;Seja+Bem+Vind😄!+:%29)](https://git.io/typing-svg)
 
 
 
@@ -85,10 +85,9 @@
 
 ###  Meu Repositorio 
 <a href="https://github.com/Erick-SouDev?tab=repositories">Meus Projetos 👈</a>
-### Meu Curriculum
 
    <div style="display: flex; padding: 10px"><br/>
-       <a style="color:white" title="curriculum de erick bruno" href="https://drive.google.com/file/d/15e9Ku5OfptsxOXunm_-nmP0Wcd2Dl6oA/view?usp=sharing">Meu CV Personalisado 👈</a>
-    </div>
+       <a style="color:white" title="curriculum de erick bruno" href="https://drive.google.com/file/d/15e9Ku5OfptsxOXunm_-nmP0Wcd2Dl6oA/view?usp=sharing">Meu Meu Curriculum👈</a>
+   </div>
 
     
