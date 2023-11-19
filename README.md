@@ -2,11 +2,9 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Óla,+Meu+Nome+é+Erick+Bruno;+Sou+Natural+de+SG+do+Amarante,+RN;+estudante+de+analises+de+sistemas+na+UNP+;+Programador+Back-End+java+;Bem+Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Óla,+Meu+Nome+é+Erick+Bruno;+Sou+Natural+de+SG+do+Amarante,+RN;+Estudante+de+Analises+de+Sistemas+na+UNP+;+Programador+Back-End+java+;Bem+Vindo😄!+:%29)](https://git.io/typing-svg)
 
 
-
-### Óla tudo bem, sou erick bruno  programador back-end java 😄 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Erick-SouDev&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
