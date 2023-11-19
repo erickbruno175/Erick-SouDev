@@ -2,6 +2,10 @@
 
 ![Java-For-Web-Development](https://github.com/Erick-SouDev/alerta-eventos/assets/139890795/79bad535-3560-4fd0-96db-14ff2cd1f360)
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Erick+Bruno;I'm+18+years+old;I+am+from+São+gonçalo+amarante,+RN;I+study+analysis+and+systems+development+at+Senac;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 
 
 <h1>sejam bem vindos 💪</h1> 
