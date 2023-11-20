@@ -89,8 +89,7 @@
 
    <div style="display: flex; padding: 10px"><br/>
 <a  href="https://github.com/Erick-SouDev?tab=repositories">Repositorio👈</a>
-       <a style="color:white" title="curriculum de erick bruno" href="https://drive.google.com/file/d/15e9Ku5OfptsxOXunm_-nmP0Wcd2Dl6oA/view?usp=sharing">  Curriculum Modelo 1👈</a>
-       <a style="color:white" title="curriculum de erick bruno" href="https://drive.google.com/file/d/15fDOoWdsY-S0urcMY_yHlFAnV8ei5Fm-/view?usp=sharing"> Curriculum Modelo 2👈</a>
+       <a style="color:white" title="curriculum de erick bruno" href="https://drive.google.com/file/d/1v78zWvFUFVkJJZyKdGdNYNTrdYP80IO-/view?usp=sharing"> Meu Curriculum  1👈</a>
 
    </div>
 
