@@ -84,10 +84,11 @@
     <img align="center"  alt="mdn" src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white">
   </div>
 
-###  Meu Repositorio 
-<a href="https://github.com/Erick-SouDev?tab=repositories">Meus Projetos 👈</a>
+<br>
+
 
    <div style="display: flex; padding: 10px"><br/>
+<a  href="https://github.com/Erick-SouDev?tab=repositories">Repositorio👈</a>
        <a style="color:white" title="curriculum de erick bruno" href="https://drive.google.com/file/d/15e9Ku5OfptsxOXunm_-nmP0Wcd2Dl6oA/view?usp=sharing">  Curriculum Modelo 1👈</a>
        <a style="color:white" title="curriculum de erick bruno" href="https://drive.google.com/file/d/15fDOoWdsY-S0urcMY_yHlFAnV8ei5Fm-/view?usp=sharing"> Curriculum Modelo 2👈</a>
 
