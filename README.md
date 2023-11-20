@@ -57,7 +57,7 @@
 
 
 <div style="display: flex; padding: 10px"><br/>
-     <h5>Tecnologias que  eu utilizo,  em  meus projetos</h5>
+     <h3>Tecnologias que  eu utilizo,  em  meus projetos</h3>
 
  <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img align="center"  alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
@@ -70,7 +70,7 @@
 <br/>
 
  <div style="display: flex; padding: 10px"><br/>
-   <h5>Ferramentas que  eu utilizo,  em  meus projetos</h5>
+   <h3>Ferramentas que  eu utilizo,  em  meus projetos</h3>
   <img align="center"  alt="github" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   <img align="center"  alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img align="center"  alt="springsecurity" src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white">
@@ -79,7 +79,7 @@
   </div>
 
    <div style="display: flex; padding: 10px"><br/>
-     <h5>Fontes De Estudos</h5>
+     <h3>Fontes De Estudos</h3>
     <img align="center"  alt="udemy" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white">
     <img align="center"  alt="mdn" src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white">
   </div>
