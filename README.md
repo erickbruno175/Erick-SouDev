@@ -25,7 +25,6 @@
 
  ### Bem Esse Sou eu  , Quando Estou Programando kkkkk
  ![PROGRAMADOR](https://github.com/Erick-SouDev/Erick-SouDev/assets/139890795/fdb43dd5-c9bd-4e81-887d-5974a7b697da)
- ![image](https://github.com/Erick-SouDev/Erick-SouDev/assets/139890795/196f043d-caea-4250-bb5c-5d26d6576cca)
 
 
 ### TimeLine
