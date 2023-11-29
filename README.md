@@ -22,6 +22,9 @@
  JSP, e experiência em bancos de dados relacionais, especialmente PostgreSQL. Já
  desenvolvi alguns projetos pessoais utilizando essas tecnologias, demonstrando
  minha paixão por aprender e criar soluções .
+ 
+ ![PROGRAMADOR](https://github.com/Erick-SouDev/Erick-SouDev/assets/139890795/fdb43dd5-c9bd-4e81-887d-5974a7b697da)
+
 
 ### TimeLine
 
