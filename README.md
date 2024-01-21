@@ -91,8 +91,8 @@
 
 
    <div style="display: flex; padding: 10px"><br/>
-<a  href="https://github.com/Erick-SouDev?tab=repositories">Repositorio👈</a>
-       <a style="color:white" title="curriculum de erick bruno" href="https://drive.google.com/file/d/1v78zWvFUFVkJJZyKdGdNYNTrdYP80IO-/view?usp=sharing"> Meu Curriculum  1👈</a>
+       <a  href="https://github.com/Erick-SouDev?tab=repositories">Repositorio👈</a>
+       <a style="color:white" title="curriculum de erick bruno" href="https://drive.google.com/file/d/1Dyhh8z4Tybbs9GC-5eNjzQj2iJxkpwdN/view?usp=drive_link"> Meu Curriculum  1👈</a>
 
    </div>
 
