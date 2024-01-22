@@ -25,7 +25,7 @@
 
  ![PROGRAMADOR](https://github.com/Erick-SouDev/Erick-SouDev/assets/139890795/fdb43dd5-c9bd-4e81-887d-5974a7b697da)
 
- Apaixonado por mundos de fantasia medieval, mergulho avidamente nas páginas de obras como "O Senhor dos Anéis", onde a magia, criaturas fantásticas e jornadas épicas me transportam para terras imaginárias repletas de emoção. H.P. Lovecraft é outra paixão minha; seu toque de horror cósmico, explorando o desconhecido e o sobrenatural, me envolve em mistérios intrigantes e existenciais.
+ Apaixonado por mundos de fantasia medieval, mergulhei avidamente nas páginas de obras como "O Senhor dos Anéis", onde a magia, criaturas fantásticas e jornadas épicas me transportam para terras imaginárias repletas de emoção. H.P. Lovecraft é outra paixão minha; seu toque de horror cósmico, explorando o desconhecido e o sobrenatural, me envolve em mistérios intrigantes e existenciais.
  
  ![sodadomedieval](https://github.com/Erick-SouDev/Erick-SouDev/assets/139890795/bc8e35b0-41e9-48fa-a1f8-bac5d09d08d1)
 
