@@ -23,6 +23,8 @@
  desenvolvi alguns projetos pessoais utilizando essas tecnologias, demonstrando
  minha paixão por aprender e criar soluções .
 
+ ![PROGRAMADOR](https://github.com/Erick-SouDev/Erick-SouDev/assets/139890795/fdb43dd5-c9bd-4e81-887d-5974a7b697da)
+
  Apaixonado por mundos de fantasia medieval, mergulho avidamente nas páginas de obras como "O Senhor dos Anéis", onde a magia, criaturas fantásticas e jornadas épicas me transportam para terras imaginárias repletas de emoção. H.P. Lovecraft é outra paixão minha; seu toque de horror cósmico, explorando o desconhecido e o sobrenatural, me envolve em mistérios intrigantes e existenciais.
  
  ![sodadomedieval](https://github.com/Erick-SouDev/Erick-SouDev/assets/139890795/bc8e35b0-41e9-48fa-a1f8-bac5d09d08d1)
@@ -35,10 +37,8 @@ Ao explorar obras ambientadas em Tolkien, encontro uma fascinação por narrativ
 
 E, claro, não posso esquecer meu fascínio pela teologia e cosmologia. Mergulho nas profundezas das questões fundamentais da existência, explorando a natureza do divino, a origem do universo e as forças cósmicas que esculpem a realidade. Essa exploração filosófica adiciona uma dimensão de reflexão às minhas leituras, enriquecendo minha compreensão do cosmos e do desconhecido.
  ![cosmo](https://github.com/Erick-SouDev/Erick-SouDev/assets/139890795/1ae6594f-0011-4f5b-b690-9108c69b876e)
+  ### Bem Esse Sou eu  😄
 
-
- ### Bem Esse Sou eu  , Quando Estou Programando kkkkk😄
- ![PROGRAMADOR](https://github.com/Erick-SouDev/Erick-SouDev/assets/139890795/fdb43dd5-c9bd-4e81-887d-5974a7b697da)
 
 
 ### TimeLine
