@@ -53,7 +53,7 @@
 
 ###  Encontre-me
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-bruno/)
-[![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5584987084306)
+[![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]([https://wa.me/5584987084306](https://e.customeriomail.com/e/c/eyJlbWFpbF9pZCI6ImRnU1JpQWNCQU9EZWxRSGYzcFVCQVkwdWNpb2ZiSElMNDdtdnBmejBDZz09IiwiaHJlZiI6Imh0dHBzOi8vY29udGF0ZS5tZS9lcmljay1zb3VkZXY_dXRtX2NhbXBhaWduPUNvbnRhdGUubWUlM0ErbGluaytjcmVhdGVkXHUwMDI2dXRtX2NvbnRlbnQ9RW1haWwrMVx1MDAyNnV0bV9tZWRpdW09ZW1haWxfYWN0aW9uXHUwMDI2dXRtX3NvdXJjZT1lbWFpbCIsImludGVybmFsIjoiOTE4ODA3NTFhZmI2MDFlMGRlOTUwMSIsImxpbmtfaWQiOjI0fQ/c09af8e3b1b239ee26052d45430f6243e397d182c27eec16f55e4a48965695aa))
 
 <br/>
 
