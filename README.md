@@ -17,7 +17,7 @@
 
 ### Sobre Mim. 
 
- Sou um estudante de Análise e Desenvolvimento de Sistemas, com habilidades
+ Analista de sistemas, com habilidades
  como programador Java, conhecimento em frameworks como Spring Boot, JSF e
  JSP, Servlets e experiência em bancos de dados relacionais, especialmente PostgreSQL. Já
  desenvolvi alguns projetos pessoais utilizando essas tecnologias, demonstrando
