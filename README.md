@@ -35,10 +35,6 @@ Ao explorar obras ambientadas em Tolkien, encontro uma fascinação por narrativ
  ![senhoraneis](https://github.com/Erick-SouDev/Erick-SouDev/assets/139890795/73eabf12-97d9-4b70-9203-b853db201542)
 
 
-E, claro, não posso esquecer meu fascínio pela teologia e cosmologia. Mergulho nas profundezas das questões fundamentais da existência, explorando a natureza do divino, a origem do universo e as forças cósmicas que esculpem a realidade. Essa exploração filosófica adiciona uma dimensão de reflexão às minhas leituras, enriquecendo minha compreensão do cosmos e do desconhecido.
- ![cosmo](https://github.com/Erick-SouDev/Erick-SouDev/assets/139890795/1ae6594f-0011-4f5b-b690-9108c69b876e)
-  ### Bem Esse Sou eu  😄
-
 
 
 ### TimeLine
