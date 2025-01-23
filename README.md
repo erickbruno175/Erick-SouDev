@@ -17,9 +17,9 @@
 
 ### Sobre Mim. 
 
-Desenvolvedor Java Backend com sólida experiência em análise de sistemas e frameworks como Spring Boot, JSF, JSP e Servlets.  Proficiente em bancos de dados relacionais, particularmente PostgreSQL, e motivado pela criação de soluções inovadoras e eficientes, comprovada por projetos pessoais.  Sou um entusiasta da tecnologia em constante busca por aprimoramento profissional,  dedicado ao design, implementação e otimização de sistemas que atendam às necessidades de negócio.
+Desenvolvedor Java Backend com expertise em frameworks como Spring Boot, JSF, JSP e Servlets, e profundo conhecimento de bancos de dados relacionais, especialmente PostgreSQL.  Motivado pela criação de soluções inovadoras e eficientes, comprovado por projetos pessoais, busco constantemente aprimorar minhas habilidades e me dedico ao design, implementação e otimização de sistemas alinhados às necessidades do negócio. Sou um entusiasta da tecnologia e comprometido com a excelência.
 
- ![PROGRAMADOR](https://github.com/Erick-SouDev/Erick-SouDev/assets/139890795/fdb43dd5-c9bd-4e81-887d-5974a7b697da)
+ 
 
 
 
@@ -54,9 +54,6 @@ Desenvolvedor Java Backend com sólida experiência em análise de sistemas e fr
 <br>
 
 
-   <div style="display: flex; padding: 10px"><br/>
-       <a style="color:white" title="curriculum de erick bruno" href="https://drive.google.com/file/d/1Dyhh8z4Tybbs9GC-5eNjzQj2iJxkpwdN/view?usp=drive_link"> Meu Curriculum  1👈</a>
 
-   </div>
 
     
