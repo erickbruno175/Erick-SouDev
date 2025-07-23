@@ -1,59 +1,75 @@
+<!-- Banner animado moderno -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=00bfbf&height=200&section=header&text=Erick%20Bruno%20🚀&fontSize=40&fontColor=ffffff"/>
+</p>
 
+<!-- Introdução tipada -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=500&center=true&vCenter=true&width=800&lines=Olá%2C+eu+sou+Erick+Bruno!;Desenvolvedor+Java+Back-End.;Entusiasta+de+tecnologia+e+boas+práticas+de+código.;Seja+bem-vindo+ao+meu+GitHub+😄" />
+</p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello+Word,+Meu+Nome+é+Erick+Bruno🤗;+Sou+Natural+De+Sg+do+Amarante,+RN;+Sou+Analista+de+Sistemas,+;+Programador+Back-End+java+;+Minhas+Skills,+SpringBoot+JSP+JSF+JQUERY+Jpa;+Atualmente+Aprendendo,+Angular.js+TypeScript;Seja+Bem+Vindo😄!+:%29)](https://git.io/typing-svg)
+---
 
+### 👨‍💻 Sobre Mim
 
+Sou **Desenvolvedor Java Back-End** com experiência sólida no ecossistema Java, apaixonado por criar soluções eficientes, seguras e escaláveis.
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Erick-SouDev&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+Trabalho com **Spring Boot**, **JSF**, **JSP**, **Hibernate**, além de bancos de dados como **PostgreSQL**. No momento, estou expandindo meus conhecimentos em **Angular** e **TypeScript** para atuar como desenvolvedor fullstack.
 
+🎯 Busco sempre escrever código limpo, testável e que agregue valor real ao negócio.
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Erick-SouDev&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Erick-SouDev github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-SouDev&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+---
+
+### 🧰 Tecnologias & Ferramentas
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
+<img src="https://img.shields.io/badge/JSF-3776AB?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+
 </div>
 
+---
 
-### Sobre Mim. 
+### 📚 Onde Estudo & Me Atualizo
 
-Desenvolvedor Java Backend com expertise em frameworks como Spring Boot, JSF, JSP e Servlets, e profundo conhecimento de bancos de dados relacionais, especialmente PostgreSQL.  Motivado pela criação de soluções inovadoras e eficientes, comprovado por projetos pessoais, busco constantemente aprimorar minhas habilidades e me dedico ao design, implementação e otimização de sistemas alinhados às necessidades do negócio. Sou um entusiasta da tecnologia e comprometido com a excelência.
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
 
- 
+<img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />
+<img src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white" />
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 
-
-
-<div style="display: flex; padding: 10px"><br/>
-     <h3>Tecnologias que  eu utilizo,  em  meus projetos</h3>
-
- <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img align="center"  alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-   <img align="center"  alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-   <img align="center"  alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-   <img align="center"  alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-   <img align="center"  alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img align="center"  alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
 </div>
-<br/>
 
- <div style="display: flex; padding: 10px"><br/>
-   <h3>Ferramentas que  eu utilizo,  em  meus projetos</h3>
-  <img align="center"  alt="github" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-  <img align="center"  alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-  <img align="center"  alt="springsecurity" src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white">
-   <img align="center"  alt="windowsterminal" src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white">
-   <img align="center"  alt="hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
-  </div>
+---
 
-   <div style="display: flex; padding: 10px"><br/>
-     <h3>Fontes De Estudos</h3>
-    <img align="center"  alt="udemy" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white">
-    <img align="center"  alt="mdn" src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white">
-  </div>
+### 📊 Estatísticas GitHub
 
-<br>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Erick-SouDev&show_icons=true&theme=github_dark&hide_border=true&title_color=00bfbf&icon_color=00bfbf" />
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-SouDev&layout=compact&theme=github_dark&hide_border=true&title_color=00bfbf" />
+</div>
 
+---
 
+<p align="center">
+  <strong>🚀 Obrigado por visitar!</strong><br>
+  <em>“Persistência hoje é competência amanhã.”</em>
+</p>
 
-
-    
+<p align="center">
+  <a href="mailto:erick.seuemail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/seu-perfil/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+</p>
