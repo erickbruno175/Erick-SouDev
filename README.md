@@ -1,5 +1,4 @@
 <h1 align="center" style="font-weight: 700; letter-spacing: 3px; margin-bottom: 8px;">Erick Bruno</h1>
-<h3 align="center" style="font-weight: 500; color: #4a4a4a; margin-top: 0; margin-bottom: 24px;">Desenvolvedor Java | Back-End</h3>
 
 <p align="center" style="font-size: 1.2rem; color: #2d2d2d; max-width: 640px; margin: 0 auto 32px auto; line-height: 1.5;">
   💻 Apaixonado por código limpo, boas práticas e soluções que geram valor real.
